@@ -1,22 +1,24 @@
 .home-container {
   height: 300px;
   color: white;
+  padding-left: 150px;
 }
 
-.home-container h1 {
+.home-content h2 {
   padding: 5px;
-  padding-top: 80px;
-  margin-left: 100px;
+  padding-top: 70px;
+  /* margin-left: 100px; */
 }
 
-.home-container h2 {
+.home-content h1 {
   color: #e0b50f;
   padding: 5px;
-  margin-left: 100px;
+  /*margin-left: 100px;*/
 }
 
 .home-buttons {
-  margin-left: 100px;
+  /*margin-left: 100px;*/
+  margin-top: 20px;
 }
 
 .home-buttons .btn-hire {
